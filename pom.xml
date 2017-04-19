@@ -6,7 +6,11 @@
     <groupId>org.tanaguru</groupId>
     <artifactId>tanaguru</artifactId>
     <packaging>pom</packaging>
+<<<<<<< 6e424f5f3bb04921ad9330910552e4c22c8fa69d
     <version>4.0.3</version>
+=======
+    <version>4.0.2-SNAPSHOT</version>
+>>>>>>> Bump version from 4.0.1-snapshot to 4.0.2-snapshot
     <name>tanaguru</name>
     <url>http://www.tanaguru.org</url>
     <modules>
@@ -33,6 +37,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <engineGroupId>org.tanaguru</engineGroupId>
+<<<<<<< 6e424f5f3bb04921ad9330910552e4c22c8fa69d
         <engineVersion>4.0.3</engineVersion>
         
         <webappGroupId>org.tanaguru</webappGroupId>
@@ -43,9 +48,21 @@
         
         <tanaguruCliGroupId>org.tanaguru</tanaguruCliGroupId>
         <tanaguruCliVersion>4.0.3</tanaguruCliVersion>
+=======
+        <engineVersion>4.0.2-SNAPSHOT</engineVersion>
+        
+        <webappGroupId>org.tanaguru</webappGroupId>
+        <webappVersion>4.0.2-SNAPSHOT</webappVersion>
+        
+        <testingToolsGroupId>org.tanaguru</testingToolsGroupId>
+        <testingToolsVersion>4.0.2-SNAPSHOT</testingToolsVersion>
+        
+        <tanaguruCliGroupId>org.tanaguru</tanaguruCliGroupId>
+        <tanaguruCliVersion>4.0.2-SNAPSHOT</tanaguruCliVersion>
+>>>>>>> Bump version from 4.0.1-snapshot to 4.0.2-snapshot
         
         <rulesGroupId>org.tanaguru</rulesGroupId>
-        <rulesVersion>1.8.0</rulesVersion>
+        <rulesVersion>1.9.0</rulesVersion>
         
         <springGroupId>org.springframework</springGroupId>
         <springVersion>3.1.2.RELEASE</springVersion>

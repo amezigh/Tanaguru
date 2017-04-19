@@ -6,7 +6,11 @@
     <parent>
         <groupId>org.tanaguru</groupId>
         <artifactId>testing-tools</artifactId>
+<<<<<<< 6e424f5f3bb04921ad9330910552e4c22c8fa69d
         <version>4.0.3</version>
+=======
+        <version>4.0.2-SNAPSHOT</version>
+>>>>>>> Bump version from 4.0.1-snapshot to 4.0.2-snapshot
     </parent>
     <artifactId>tgol-testing-tools</artifactId>
     <name>tgol-testing-tools</name>
