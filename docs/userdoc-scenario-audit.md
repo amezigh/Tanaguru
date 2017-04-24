@@ -35,10 +35,9 @@ shortcut `CTRL-ALT-B`), and select *Selenium 2*.
 
 ![](Images/screenshot_20150309_TANAGURU_SCENARIO_step_A2_SeBuilder_window.png)
 
-* In the *Tranport for London* page, fill in the *From* field (*Piccadilly circus*)
-and *To* field (*Monument*)
+* In the *Tranport for London* page, fill in the *From* field with *Piccadilly Circus Underground Station* (select this option in the list of options appearing) and *To* field with *Monument Underground Station*.
 
-![](Images/screenshot_20150309_TANAGURU_SCENARIO_step_B_filling_form.png)
+![](Images/screenshot_20170424_TANAGURU_SCENARIO_step_B_filling_form.png)
 
 * Click the *Plan my journey* button, and see the proposed journeys.
 
